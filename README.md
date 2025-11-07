@@ -10,18 +10,15 @@
 
 ## Daftar isi
 
-- [Pr0gshell](#my-project)
-- [Gh0st-Coin](#my-project)
-- [T4n-Manager](#my-project)
+- [?](#my-project)
 - [Sumber](#sumber-zig)
   - [Community](https://github.com/ziglang/zig/wiki/Community)
   - [Introduction Or News](#introduction-or-news)
   - [Learning](#learning-zig)
  
 ## My Project
-- [Progshell](https://github.com/t4ngh0st/pr0gshell) adalah proyek pembuatan custom shell (lingkungan terminal) yang bisa menjadi alternatif dari shell populer seperti bash, zsh, atau fish(progress).
-- [Gh0st Coin](https://github.com/t4ngh0st/Gh0st-Coin) adalah meme coin (cryptocurrency) yang menggabungkan branding unik dengan ekosistem T4n(progress).
-- [T4n-Manager](https://github.com/t4ngh0st/T4n-Manager) adalah package manager alternatif untuk Void Linux, dengan inspirasi dari xbps tapi lebih user-friendly yang ditulis dengan zig(progress).
+
+- [?](https://github.com/t4ngh0st/?) ???.
 
 ## Sumber Zig
 
@@ -39,7 +36,7 @@
   - [Zig Star History](https://star-history.com/#ziglang/zig&Date)
 
 - ### Learning Zig
-  - [My Source Code](https://github.com/t4ngh0st/source-zig)
+  - [My Source Code](https://github.com/gh0st4n/Zig)
   - [Latihan Exercism di Zig](https://exercism.org/tracks/zig)
   - [zig-cookbook 🗒️ Zig cookbook adalah kumpulan program Zig sederhana yang menunjukkan praktik baik untuk menyelesaikan tugas pemrograman umum.](https://github.com/zigcc/zig-cookbook)
   - [zig.guide 🗒️ Repo untuk https://zig.guide content. Pelajari Zig dengan cepat.](https://github.com/Sobeston/zig.guide)
@@ -75,7 +72,7 @@ bahasa pemrograman tingkat tinggi, multi-purpose, dan mudah dibaca yang digunaka
   - [Learning](#learning-python)
 
 ## My Project
-- [T4n-Manpy](https://github.com/t4ngh0st/T4n-Manpy) adalah package manager alternatif untuk Void Linux, dengan inspirasi dari xbps tapi lebih user-friendly yang ditulis dengan python(progress).
+- [T4n-Manpy](https://github.com/gh0st4n/T4n-Manpy/) adalah package manager alternatif untuk Void Linux, dengan inspirasi dari xbps tapi lebih user-friendly yang ditulis dengan python(progress).
 
 ## Sumber Python
 
@@ -85,7 +82,7 @@ bahasa pemrograman tingkat tinggi, multi-purpose, dan mudah dibaca yang digunaka
   - [News Python Official](https://www.python.org/blogs/)
 
 - ### Learning Python
-  - [My Source Code](https://github.com/t4ngh0st/source-python)
+  - [My Source Code](https://github.com/gh0st4n/Python)
 
 ---
 
