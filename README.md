@@ -65,14 +65,14 @@ bahasa pemrograman tingkat tinggi, multi-purpose, dan mudah dibaca yang digunaka
 
 ## Daftar isi
 
-- [T4n-Manpy](my-project)
+- [VUr-Helper](my-project)
 - [Sumber](#sumber-python)
   - [Community](https://www.python.org/community/)
   - [News](#news-python)
   - [Learning](#learning-python)
 
 ## My Project
-- [T4n-Manpy](https://github.com/gh0st4n/T4n-Manpy/) adalah package manager alternatif untuk Void Linux, dengan inspirasi dari xbps tapi lebih user-friendly yang ditulis dengan python(progress).
+- [VUR-Helper](https://github.com/gh0st4n/Tools-T4n_OS/tree/VUR-Helper) adalah package manager alternatif untuk Void Linux, serta mempermudah penggunaan xbps-src yang ditulis dengan python(progress).
 
 ## Sumber Python
 
