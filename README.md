@@ -10,15 +10,10 @@
 
 ## Daftar isi
 
-- [?](#my-project)
 - [Sumber](#sumber-zig)
   - [Community](https://github.com/ziglang/zig/wiki/Community)
   - [Introduction Or News](#introduction-or-news)
   - [Learning](#learning-zig)
- 
-## My Project
-
-- [?](https://github.com/t4ngh0st/?) ???.
 
 ## Sumber Zig
 
@@ -65,14 +60,10 @@ bahasa pemrograman tingkat tinggi, multi-purpose, dan mudah dibaca yang digunaka
 
 ## Daftar isi
 
-- [VUr-Helper](my-project)
 - [Sumber](#sumber-python)
   - [Community](https://www.python.org/community/)
   - [News](#news-python)
   - [Learning](#learning-python)
-
-## My Project
-- [VUR-Helper](https://github.com/gh0st4n/Tools-T4n_OS/tree/VUR-Helper) adalah package manager alternatif untuk Void Linux, serta mempermudah penggunaan xbps-src yang ditulis dengan python(progress).
 
 ## Sumber Python
 
@@ -98,3 +89,11 @@ bahasa pemrograman tingkat tinggi, multi-purpose, dan mudah dibaca yang digunaka
 
 - [DDoS](#)
 - [ETC](#)
+
+# My Project
+
+> 🛠️ My Project, You Can See My Code
+
+- [T4n OS](https://github.com/gh0st4n/T4n-OS)
+- [VUR](https://github.com/gh0st4n/VUR)
+- [VUR-Helper](https://github.com/gh0st4n/Tools-T4n_OS/tree/VUR-Helper)
