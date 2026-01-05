@@ -94,6 +94,6 @@ bahasa pemrograman tingkat tinggi, multi-purpose, dan mudah dibaca yang digunaka
 
 > 🛠️ My Project, You Can See My Code
 
-- [T4n OS](https://github.com/gh0st4n/T4n-OS)
-- [VUR](https://github.com/gh0st4n/VUR)
-- [VUR-Helper](https://github.com/gh0st4n/Tools-T4n_OS/tree/VUR-Helper)
+- [T4n OS](https://github.com/t4n-os/T4n_OS)
+- [VUR](https://github.com/t4n-os/VUR)
+- [VUR-Helper](https://github.com/t4n-os/VUR-Helper)
