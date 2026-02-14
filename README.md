@@ -76,7 +76,7 @@ bahasa pemrograman tingkat tinggi, multi-purpose, dan mudah dibaca yang digunaka
   - #### Learn
     - [Source Code](https://github.com/gh0st4n/Python/)
   - #### My Project
-    - Let - VUR-Helper : [Souce Code](https://github.com/t4-tech/Let/) 
+    - Let - VUR-Helper : [Souce Code](https://github.com/t4n-tech/Let/) 
 
 # Ethical Hacking ID
 
