@@ -6,8 +6,6 @@
 
 [Zig](https://ziglang.org/) adalah bahasa pemrograman dan rangkaian alat serba guna untuk memelihara perangkat lunak yang kuat, optimal, dan dapat digunakan kembali.
 
-**Note 🗒️: ini hanya catatan projek yang gw buat**
-
 ## Daftar isi
 
 - [Sumber](#sumber-zig)
@@ -31,7 +29,6 @@
   - [Zig Star History](https://star-history.com/#ziglang/zig&Date)
 
 - ### Learning Zig
-  - [My Source Code](https://github.com/gh0st4n/Zig)
   - [Latihan Exercism di Zig](https://exercism.org/tracks/zig)
   - [zig-cookbook 🗒️ Zig cookbook adalah kumpulan program Zig sederhana yang menunjukkan praktik baik untuk menyelesaikan tugas pemrograman umum.](https://github.com/zigcc/zig-cookbook)
   - [zig.guide 🗒️ Repo untuk https://zig.guide content. Pelajari Zig dengan cepat.](https://github.com/Sobeston/zig.guide)
@@ -44,8 +41,11 @@
   - [Zig Language Refrensi](https://ziglang.org/documentation/master/)
   - [Zig Standard Library Dokumentasi](https://ziglang.org/documentation/master/std/)
   - [zig-course(zh_CN)](https://zigcc.github.io/zig-course/)
- 
----
+
+- ### My Code
+  - #### Learn
+    - [My Source Code](https://github.com/gh0st4n/Zig)
+  - #### My Project
 
 # Python Language ID
 
@@ -65,17 +65,18 @@ bahasa pemrograman tingkat tinggi, multi-purpose, dan mudah dibaca yang digunaka
   - [News](#news-python)
   - [Learning](#learning-python)
 
-## Sumber Python
+### Sumber Python
 
-- ### [Komunitas Python](https://www.python.org/community/)
+- #### [Komunitas Python](https://www.python.org/community/)
 
-- ### News Python
+- #### News Python
   - [News Python Official](https://www.python.org/blogs/)
 
-- ### Learning Python
-  - [My Source Code](https://github.com/gh0st4n/Python)
-
----
+### My Code
+  - #### Learn
+    - [Source Code](https://github.com/gh0st4n/Python/)
+  - #### My Project
+    - Let - VUR-Helper : [Souce Code](https://github.com/t4-tech/Let/) 
 
 # Ethical Hacking ID
 
@@ -90,10 +91,10 @@ bahasa pemrograman tingkat tinggi, multi-purpose, dan mudah dibaca yang digunaka
 - [DDoS](#)
 - [ETC](#)
 
-# My Project
 
+# Other My Project
 > 🛠️ My Project, You Can See My Code
 
-- [T4n OS](https://github.com/t4n-os/T4n_OS)
-- [VUR](https://github.com/t4n-os/VUR)
-- [VUR-Helper](https://github.com/t4n-os/VUR-Helper)
+- [T4n OS](https://github.com/t4n-tech/t4n-os)
+- [VUR](https://github.com/t4n-tech/vur)
+- [VUR-Helper](https://github.com/t4n-tech/Let)
